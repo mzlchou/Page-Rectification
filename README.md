@@ -1,7 +1,7 @@
 Document Rectication Pipeline
 Michael Chou
 October 2025
-Computer Vision CS-132
+Tufts University Computer Vision CS-132
 
 This project implements an automatic document rectification pipeline that detects a document within an image, finds its corners, and applies a homography transform to produce a top down, flattened version of the page. 
 
